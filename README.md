@@ -1,2 +1,2 @@
-# longchain
-playground for longchain
+# langchain
+playground for langchain
